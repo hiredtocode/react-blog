@@ -1,19 +1,19 @@
 {
 	"blogs": [
 		{
-			"Title": "My first blog",
+			"title": "My first blog",
 			"body": "Fugiat minim aliqua ullamco eiusmod sunt officia velit sunt exercitation deserunt velit id.",
 			"author": "Jason",
 			"id": "1"
 		},
 		{
-			"Title": "My first blog",
+			"title": "My second blog",
 			"body": "Exercitation cupidatat ex ipsum nostrud Lorem pariatur laborum officia veniam quis.",
 			"author": "John",
 			"id": "2"
 		},
 		{
-			"Title": "My first blog",
+			"title": "My third blog",
 			"body": "Eiusmod officia sunt cupidatat minim velit esse.",
 			"author": "Josh",
 			"id": "3"
